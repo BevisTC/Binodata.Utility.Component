@@ -8,6 +8,6 @@ namespace Binodata.Utility.Component.Error
 {
     public enum ErrorCode
     {
-        Unknow = 199
+        Unknow = 199,
     }
 }
